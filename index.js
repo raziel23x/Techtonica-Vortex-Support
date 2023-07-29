@@ -11,7 +11,7 @@ const spec = {
     "logo": "techtonica.jpg",
     "mergeMods": true,
     "modPath": "BepInEx/plugins",
-    "modPathIsRelative": true,
+    "modPathIsRelative": false,
     "requiredFiles": [
       "Techtonica.exe"
     ],
