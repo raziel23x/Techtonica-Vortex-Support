@@ -1,12 +1,12 @@
-****Techtonica-Vortex-Support****
+# Techtonica-Vortex-Support
 
-Just a little extension I threw together(with the help of the guide) to support a few Techtonica mods.
+***Just a little extension I threw together(with the help of the guide) to support a few Techtonica mods.***
 
-****Install Location****
+**Install Location**
 
 ```%appdata%/Vortex/plugins\Game-Techtonica```
 
-****Uninstall****
+**Uninstall**
 
 Delete the folder
 
